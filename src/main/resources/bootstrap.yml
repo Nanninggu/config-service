@@ -1,0 +1,6 @@
+encrypt:
+#  key: abcdefghyjklmnopqrstuvwxyz0123456789
+  key-store:
+    location: file:///IdeaProjects/keystore/apiEncryptionKey.jks
+    password: test1234
+    alias: apiEncryptionKey
